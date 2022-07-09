@@ -1,3 +1,4 @@
+import React from 'react';
 import pfp from "../../assets/tianchou.jfif";
 import resume from "../../assets/SampleResume.pdf";
 

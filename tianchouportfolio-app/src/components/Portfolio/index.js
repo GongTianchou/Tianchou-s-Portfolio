@@ -1,3 +1,4 @@
+import React from 'react';
 import YummyGrocery from "../../assets/YummyGrocery.PNG";
 import SocialNetworkAPI from "../../assets/SocialNetworkAPI.PNG";
 import PasswordGen from "../../assets/PasswordGenerator.PNG";

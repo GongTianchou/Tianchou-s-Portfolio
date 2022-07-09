@@ -1,5 +1,6 @@
 // import AlternateEmailIcon from "@mui/icons-material/AlternateEmail";
-import AlternateEmailIcon from '../../assets/AlternateEmailIcon.png'
+import React from 'react';
+// import AlternateEmailIcon from '../../assets/AlternateEmailIcon.png'
 import GitHubIcon from "../../assets/GitHubIcon.png";
 import LinkedInIcon from '../../assets/LinkedInIcon.png';
 
@@ -14,26 +15,26 @@ function Footer() {
             target="_blank"
             rel="noreferrer"
           >
-            <GitHubIcon
+            {/* <GitHubIcon
               alt="github"
               sx={{ width: 40, height: 40, color: "white" }}
-            />
+            /> */}
           </a>
           <a
             href="https://www.linkedin.com/in/tianchou-joe-gong-1a1917a7/"
             target="_blank"
             rel="noreferrer"
           >
-            <LinkedInIcon
+            {/* <LinkedInIcon
               alt="linkedin"
               sx={{ width: 40, height: 40, color: "white" }}
-            />
+            /> */}
           </a>
           <a href="mailto:tianchougong17@gmail.com">
-            <AlternateEmailIcon
+            {/* <AlternateEmailIcon
               alt="gmail"
               sx={{ width: 40, height: 40, color: "white" }}
-            />
+            /> */}
           </a>
         </div>
         <p>© 2022 Tianchou Gong - All rights reserved.</p>
